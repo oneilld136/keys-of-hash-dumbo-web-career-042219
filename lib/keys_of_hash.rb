@@ -9,7 +9,6 @@ class Hash
    "koala"=>"Australia"}
 end
 
-class Hash
   def splat(*arguments)
     array = []
     array.each do |key, value|
