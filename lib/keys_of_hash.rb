@@ -1,4 +1,4 @@
-class Hash
+#class Hash
   def keys_of(arguments)
     def animals
   animals =
@@ -25,6 +25,6 @@ class Hash
     return array
   end
 
-end 
+end
   end
 end
